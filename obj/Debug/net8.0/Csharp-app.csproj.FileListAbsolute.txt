@@ -1,0 +1,15 @@
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\bin\Debug\net8.0\Csharp-app.exe
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\bin\Debug\net8.0\Csharp-app.deps.json
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\bin\Debug\net8.0\Csharp-app.runtimeconfig.json
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\bin\Debug\net8.0\Csharp-app.dll
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\bin\Debug\net8.0\Csharp-app.pdb
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\Csharp-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\Csharp-app.AssemblyInfoInputs.cache
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\Csharp-app.AssemblyInfo.cs
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\Csharp-app.csproj.CoreCompileInputs.cache
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\Csharp-app.sourcelink.json
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\Csharp-app.dll
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\refint\Csharp-app.dll
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\Csharp-app.pdb
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\Csharp-app.genruntimeconfig.cache
+C:\Users\SPP admin\OneDrive\C\C#\app\Csharp-app\obj\Debug\net8.0\ref\Csharp-app.dll
