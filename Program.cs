@@ -7,6 +7,10 @@ public class Program {  // name of program
     {  
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hi there !");
+        // String
+
+        string myname = "Ashraf Saker";
+        Console.WriteLine(myname);
     }
 
 }
