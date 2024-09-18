@@ -11,7 +11,22 @@ public class Program {  // name of program
 
         string myname = "Ashraf Saker";
         Console.WriteLine(myname);
+
+        //math
+        int a = 5;
+        int b = 8;
+        int c = a+b;
+        Console.WriteLine(c);
+
+        int sec = 1;
+        int min = 60 * sec;
+        int hour = 60 * min;
+        int day = 24 * hour;
+        int month = 30 * day;
+
+        Console.WriteLine(month);
     }
+
 
 }
 
